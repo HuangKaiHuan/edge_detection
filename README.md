@@ -1,0 +1,1 @@
+learning to implement edge detection algorithm with python and opencv.
